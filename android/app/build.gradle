@@ -48,3 +48,7 @@ android {
 flutter {
     source '../..'
 }
+
+dependencies {
+    implementation project(path: ':asr_plugin')
+}
