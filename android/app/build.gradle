@@ -50,5 +50,4 @@ flutter {
 }
 
 dependencies {
-    implementation project(path: ':asr_plugin')
 }
